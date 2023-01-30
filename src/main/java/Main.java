@@ -6,7 +6,8 @@ import java.time.Duration;
 import java.util.Arrays;
 
 public class Main {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
+
 
     }
 }
