@@ -9,5 +9,8 @@
         <module name="spring_project_reactor" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_project_reactor" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
